@@ -1,3 +1,5 @@
+//Updated File as of 3/23/2022
+
 ////////// PROBLEM 1 //////////
 /*
   Create a variable called 'lovesCode' and set it equal to true. 
@@ -168,5 +170,3 @@ while (z > 0) {
 
   z--;
 }
-
-//extra test notes
